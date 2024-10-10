@@ -1,0 +1,7 @@
+# Readthedocument
+README.rst
+Pyproject.toml
+Lumache.py
+Docs/
+Docs/source/conf.py
+Docs/source/index.rst
